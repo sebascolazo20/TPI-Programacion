@@ -61,10 +61,10 @@ Alemania             | 83,149,300      | 357,022            | Europa
 
 **Estadísticas Generales (Opción 7)**
 --- ESTADÍSTICAS DEL DATASET ---
--> País con MAYOR población: Brasil (213,993,437 hab.)
--> País con MENOR población: Argentina (45,376,763 hab.)
--> Promedio de población global: 117,079,875.00 habitantes
--> Promedio de superficie global: 2,957,791.00 km²
+* **País con MAYOR** población: Brasil (213,993,437 hab.)
+* **País con MENOR** población: Argentina (45,376,763 hab.)
+* **Promedio de población global**: 117,079,875.00 habitantes
+* **Promedio de superficie global**: 2,957,791.00 km²
 
 Cantidad de países por Continente:
    • América: 2
