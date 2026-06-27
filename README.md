@@ -13,10 +13,17 @@
 
 
 ---
+### Profesores
+**Docente Titular**
+Ariel Enferrel
+**Docente Tutor**
+Matías Torres
 
+---
 ### Enlaces Obligatorios
-* **Link al Video Demostrativo (YouTube / Drive Público):** 
-* **Link al Informe Teórico (PDF):** 
+* **Link al Video Demostrativo (YouTube / Drive Público):** https://www.youtube.com/watch?v=126bU2xByQA
+* **Link al Informe Teórico (PDF):** https://drive.google.com/file/d/1PokXFrMeMFOyWTTcvGoX8k9EnuMiWya-/view?usp=sharing
+* **Link al Repositorio de Github:** https://github.com/sebascolazo20/TPI-Programacion.git
 
 ---
 
