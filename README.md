@@ -21,7 +21,7 @@ Matías Torres
 
 ---
 ### Enlaces Obligatorios
-* **Link al Video Demostrativo (YouTube / Drive Público):** https://www.youtube.com/watch?v=126bU2xByQA
+* **Link al Video Demostrativo:** https://www.youtube.com/watch?v=126bU2xByQA
 * **Link al Informe Teórico (PDF):** https://drive.google.com/file/d/1PokXFrMeMFOyWTTcvGoX8k9EnuMiWya-/view?usp=sharing
 * **Link al Repositorio de Github:** https://github.com/sebascolazo20/TPI-Programacion.git
 
